@@ -1,0 +1,9 @@
+.imagen1{
+    width: 600px;
+    display: block;
+    margin: auto;
+    border: 1px solid #00ff04;
+}
+body{
+    background-color: #00ff04;
+}
