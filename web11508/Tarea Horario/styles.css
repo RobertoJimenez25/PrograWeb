@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+}
+table{
+    
+}
+.top{
+    background-color: rgb(31, 219, 56);
+}
+.color1{
+    background-color: rgb(183, 241, 187);
+}
+.color2{
+    background-color: rgb(84, 241, 84);
+}
+.libre{
+    background-color: red;
+}
+.lab{
+    background-color: yellow;
+}
