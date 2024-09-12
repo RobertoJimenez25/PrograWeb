@@ -1,0 +1,64 @@
+body {
+    background-color: rgb(18, 144, 28);
+    font-family: cursive;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    padding: 5em;
+}
+
+.fondoblanco {
+    background-color: white;
+    width: 300px;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+
+.texto2 {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    text-align: justify;
+}
+
+.separacion {
+    padding: 1em;
+}
+
+.fondorojo {
+    background-color: red;
+}
+
+.fondocafe {
+    background-color: rgb(170, 88, 17);
+}
+
+.imagen {
+    padding: 1em;
+    width: 300px;
+}
+
+.texto {
+    font-size: 30px;
+    text-align: justify;
+}
+
+p {
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+}
+
+.border {
+    border: 10px solid rgb(9, 114, 18);
+    border-radius: 10px;
+}
+.curva1{
+    border: 10px solid rgb(255, 255, 255);
+    border-radius: 10px;
+}
+.curva2{
+    border: 10px solid rgb(170, 88, 17);
+    border-radius: 10px;
+}
+.curva3{
+    border: 10px solid red;
+    border-radius: 10px;
+}
